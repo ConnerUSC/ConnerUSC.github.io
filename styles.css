@@ -1,0 +1,37 @@
+body {
+  background-color: rgba(3, 42, 84, 1);
+  padding-top: 20px;
+  padding-right: 60px;
+  padding-left: 60px;
+  padding-bottom: 80px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #011126;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: rgba(160, 214, 238, 1);
+  font-weight: bolder;
+  font-size: 40px;
+  text-decoration: underline;
+  text-decoration-color: #011126;
+  text-underline-offset: 5px;
+}
+
+.about {
+  color: rgba(160, 214, 238, 1);
+}
+
+.skills {
+  color: rgba(160, 214, 238, 1);
+}
+
+.projects {
+  color: rgba(160, 214, 238, 1);
+}
+
+.contact {
+  color: rgba(160, 214, 238, 1);
+}
